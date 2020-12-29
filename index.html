@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+
+        <link rel="stylesheet" href="css/style.css">
+
+    </head>
+    <body>
+
+        <div class="lista" ng-app="shoppingList" ng-controller="myCtrl">
+
+            <h2>Carrinho</h2>
+
+            <div class="">
+                <ul >
+                    <li ng-repeat="x in products">{{x}}<span ng-click="removeItem($index)">&times;</span></li>
+                </ul>
+            </div>
+
+            <div class="inputs">
+                <input ng-model="add" type="text" placeholder="Sorvete..." required/>
+                <input type="submit" ng-click="addItem()" value="Adicionar Item" class="button">
+            </div>
+        </div>
+
+
+        <script src="js/angular.js"></script>
+        <script src="js/app.js"></script>
+    </body>
+</html>
