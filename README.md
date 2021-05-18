@@ -3,11 +3,11 @@ Um pequeno projeto usando angular. Este Shopping-cart é resumidamente um carrin
 
 Fotos:
 
-![image](https://user-images.githubusercontent.com/43452688/118728567-c63cf700-b80a-11eb-8c3e-99398518db5e.png)
+![image](https://user-images.githubusercontent.com/43452688/118728752-1320cd80-b80b-11eb-9904-9a9e5e50a706.png)
 Adicionando diversos itens
-![image](https://user-images.githubusercontent.com/43452688/118728619-e076d500-b80a-11eb-9eaa-af849080c46f.png)
+![image](https://user-images.githubusercontent.com/43452688/118728814-2b90e800-b80b-11eb-8023-8e60a06449b6.png)
 Removendo quaisquer itens
-![image](https://user-images.githubusercontent.com/43452688/118728636-e8cf1000-b80a-11eb-89d0-235aa9a1e739.png)
+![image](https://user-images.githubusercontent.com/43452688/118728847-364b7d00-b80b-11eb-9f12-7ed1d01fa7bf.png)
 
 
 
